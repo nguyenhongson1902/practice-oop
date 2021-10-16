@@ -8,3 +8,4 @@ Note:
 Source:
 1. https://www.youtube.com/watch?v=Ej_02ICOIgs&t=2s
 2. https://www.youtube.com/watch?v=JeznW_7DlB0
+3. https://pynative.com/python-object-oriented-programming-oop-exercise/
